@@ -7,8 +7,8 @@ bugfixes = [
 
 # Basic replacements throughout the code to replace discord routes with fosscord routes
 replacements = [
-  ('discord.com', 'dev.fosscord.com'), # discord.com to dev.fosscord.com
-  ('discord.gg', 'dev.fosscord.com/invite'), # discord.gg to dev.fosscord.com/invite
+  ('discord.com', 'discord.fufly.xyz'), # discord.com to dev.fosscord.com
+  ('discord.gg', 'discord.fufly.xyz/invite'), # discord.gg to dev.fosscord.com/invite
   ('DEBUG:Z = false', 'DEBUG:Z = true') # Enabling debugging
 ]
 
